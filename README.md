@@ -2,7 +2,7 @@
 - 👀 I'm working as a senior full-stack developer at @oivangroup ,Bangkok
 - 🌱 I’m currently learning everything to make me survive in this industry
 - 💞️ I’m looking to collaborate on `git`
-- 📫 Contact me at m.chutipong@bangkoksoft.co
+- 📫 Contact me at chutipong.r@outlook.com
 
 <!---
 khunemz/khunemz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
